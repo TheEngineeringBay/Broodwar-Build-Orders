@@ -4,10 +4,9 @@
 
 **Player:** 
 
-**Pregame notes:** 4 pool is considered the quintessential all in build. 
+**Pregame notes:** 
 
 **Backing theory:**
-If an opponent zerg opens with a 12 hatch or late pool build, a 4 pool can win the game outright. 
 
 
 
