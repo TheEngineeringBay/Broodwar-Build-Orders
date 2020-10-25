@@ -1,0 +1,79 @@
+### General information
+
+**Approximate Date:** 
+
+**Map:**: Circuit Breaker
+
+**Player:** 
+
+**Pregame notes:**: 
+
+**Backing theory:**: 
+
+ Supply | Time | Build/Action | Build Time | Finish Time | Notes
+ -------|------|-------|------------|-------------|------ 
+|9/10|0:56|SUPPLY DEPOT #1 (18)|25|1:21
+|9/10|1:00|3x SCVs|13|Various
+|12/18|1:37|BARRACKS #1|50|2:12
+|12/18|1:41|REFINERY #1|25|2:06
+|12/18|1:45|4x SCVs|13|Various
+|13/18|1:47|Scout with the 12th SCV when it finishes||
+|14/18|2:06|3 SCVs -> Gas||
+|16/18|2:28|Marine #1|15|2:43
+|17/18|2:28|Take 1 SCV off gas, or 2 if there is a probe in your base||
+|17/18|2:32|FACTORY #1|50|3:22
+|17/18|2:40|SUPPLY DEPOT #2 (26)|25|3:05
+|17/18|2:43|2x SCVs|13|Various
+|18/18|2:50|Move Barracks closer to ramp||
+|19/26|3:07|FACTORY #2|50|3:57
+|19/26|3:11|Marine #2|15|3:26
+|21/26|3:23|MACHINE SHOP|25|3:48
+|22/26|3:35|BUNKER*|19|3:54
+|*Build more forward than usual||||
+|23/26|3:49|Seige Tank #1|32|
+|24/26|3:54|SUPPLY DEPOT #3 (34)|25|4:19
+|24/26|3:59|Lost Scouting SCV. -1 Supply||
+|24/26|4:00|MACHINE SHOP|25|4:25
+|24/26|4:03|Marine #3|15|4:18
+|27/34|4:24|Marine #4|15|4:39
+|28/34|4:27|Seige Tank #2|32|
+|30/34|4:35|SUPPLY DEPOT #4 (42)|25|5:00
+|30/34|4:40|Marine #5|15|4:55
+|31/34|4:45|SPIDER MINES|50|5:35
+|35/42|5:05|PUSH OUT (Bring 1 SCV)||
+|34/42|5:10|SEIGE MODE|50|6:00
+|34/42|5:10|Take 2 SCVs off gas||
+|37/42|5:24|SUPPLY DEPOT #5 (50)|25|5:49
+|32/50|6:17|COMMAND CENTER (44)|75 (1:15)|7:32
+|36/50|6:40|ENGINEERING BAY|38|7:18
+|53/60|8:11|ARMORY #1|50|
+|57/60|8:40|REFINERY #2|25|9:05
+|61/68|9:02|MISSILE TURRET (Nat)|19|9:21
+|61/68|9:05|VEHICLE WEAPONS +1|168 (2:48)|11:53
+|63/68|9:13|COMMAND CENTER (102)|75 (1:15)|10:28
+|63/68|9:18|SUPPLY DEPOT #? (76)|25|9:43
+|67/68|9:33|ACADEMY|50|10:23
+|70/76|9:49|SUPPLY DEPOT #? (76)|25|10:14
+|||MISSILE TURRET (Nat)|19|
+|82/92|10:23|STARPORT #1|44|11:07
+|82/102|10:29|2x COMSAT STATIONS|25|10:54
+|73/102|11:02|2x FACTORY #3 #4|50|11:52
+|76/102|11:18|SCIENCE FACILITY|38|12:06
+|82/102|11:28|ARMORY #2|50|12:18
+|82/102|11:28|SUPPLY DEPOT #? (110)|25|11:53
+|94/110|12:02|FACTORY #5|50|12:52
+|97/110|12:15|FACTORY #6|50|13:05
+|97/118|12:21|FACTORY #7|50|13:11
+|105/118|12:38|FACTORY #8|50|13:28
+|105/118|12:40|CONTROL TOWER|25|13:05
+|108/134|12:46|VEHICLE PLATING +1|168 (2:48)|15:34
+|118/134|13:01|FACTORY #9|50|13:51
+|118/142|13:13|SUPPLY DEPOT #? (110)|25|13:38
+|118/142|13:14|SUPPLY DEPOT #? (110)|25|13:39
+|132/158|13:40|Science Vessel #1|50|14:30
+|198/200|15:05|EMP SHOCKWAVE|76 (1:16)|16:21
+||16:17|GG||
+
+**Demo**: 
+
+Last updated: 2020-10-15
