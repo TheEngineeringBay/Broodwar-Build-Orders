@@ -1,10 +1,9 @@
 ### General information
 
-**Approximate Date:**  
 
-**Player:** 
 
-**Backing theory:**
+
+**Backing theory:** 9 pool is one of the classic 5 openings against zerg
 
 
 
