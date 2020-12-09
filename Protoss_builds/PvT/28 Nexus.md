@@ -1,8 +1,8 @@
 ### 28 Nexus Opening (PvT)
 
-**Theory: Safe build, not particularly agressive or economical.  Considered middle of the road.
+**Theory:** Safe build, not particularly agressive or economical.  Considered middle of the road.
 
-**Notes: Generally, constantly make goons & probes.
+**Notes:** In general, constantly make goons & probes.
 
 Supply | Time | Build/Action | Build Time | Finish Time | Notes
 -------|------|-------|------------|-------------|------ 
